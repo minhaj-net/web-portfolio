@@ -135,3 +135,57 @@ main{
     padding: 30px 33px 30px;
     box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
 }
+/* resume style start */
+.resume-container{
+    display: flex;
+    gap: 130px;
+    margin-bottom: 0;
+}
+.resume-frist-header{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.experience{
+    width: 511px;
+    height: 220px;
+}
+.resume-header{
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 0;
+    color: rgba(71, 71, 71, 1);
+}
+.resume-title{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgba(117, 117, 117, 1);
+    margin-bottom: 0;
+}
+.resume-para{
+    font-size: 16px;
+    color: rgba(117, 117, 117, 1);
+}
+.resume-cv, .submit{
+    text-align: center;
+    margin-top: 10px;
+}
+/* footer style */
+.footer-container{
+    display: flex;
+    gap: 117px;
+    padding: 130px 230px;
+    margin-top: 130px;
+}
+.input-field{
+    width: 461px;
+    height: 68px;
+    border-radius: 5px;
+    color: (255, 255, 255, 1);
+    border: 1px solid rgba(255, 255, 255, 1);
+    margin-bottom: 22px;
+}
+.input-text-area{
+    width: 461px;
+    height: 180px;  
+}   
